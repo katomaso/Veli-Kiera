@@ -1,0 +1,12 @@
+[submodule "MinimalXY"]
+	path = MinimalXY
+	url = https://github.com/petrnohejl/MinimalXY
+[submodule "pelican-mg"]
+	path = pelican-mg
+	url = https://github.com/lucachr/pelican-mg
+[submodule "blue-penguin"]
+	path = blue-penguin
+	url = https://github.com/jody-frankowski/blue-penguin
+[submodule "pelican-svbtle"]
+	path = pelican-svbtle
+	url = https://github.com/wting/pelican-svbtle
