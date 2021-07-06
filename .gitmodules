@@ -1,6 +1,3 @@
-[submodule "MinimalXY"]
-	path = MinimalXY
-	url = https://github.com/petrnohejl/MinimalXY
 [submodule "pelican-mg"]
 	path = pelican-mg
 	url = https://github.com/lucachr/pelican-mg
